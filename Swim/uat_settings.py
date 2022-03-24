@@ -1,5 +1,7 @@
 import os
 
+DEBUG = True
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
